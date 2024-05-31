@@ -76,7 +76,7 @@
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
             </a>
             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+                <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="Illustrator" width="40" height="40"/>
             </a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
                 <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="Photoshop" width="40" height="40"/>
