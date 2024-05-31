@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mushaf Khattak</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer and creative professional with a unique blend of skills in programming and digital arts.</h3>
+<h1> Hi 👋, I'm Mushaf Khattak</h1>
+<h3> Welcome to my GitHub profile! I'm a passionate developer and creative professional with a unique blend of skills in programming and digital arts.</h3>
 
 ---
 
