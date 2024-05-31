@@ -35,7 +35,7 @@
         <h4>Languages</h4>
         <p align="left">
             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
             </a>
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -69,17 +69,17 @@
     <div style="flex: 1;">
         <h4>Tools</h4>
         <p align="left">
-            <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" alt="Blender" width="40" height="40"/>
-            </a>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-            </a>
+            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+                <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="Photoshop" width="40" height="40"/>
+             </a>
             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                 <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="Illustrator" width="40" height="40"/>
             </a>
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="Photoshop" width="40" height="40"/>
+            <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" alt="Blender" width="40" height="40"/>
             </a>
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+            </a>                 
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
                 <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017
