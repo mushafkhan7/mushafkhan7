@@ -70,7 +70,7 @@
         <h4>Tools</h4>
         <p align="left">
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo-1280x391.png" alt="Blender" width="40" height="40"/>
+                <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_black.png" alt="Blender" width="40" height="40"/>
             </a>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
