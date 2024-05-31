@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Mushaf Khattak
 
 Welcome to my GitHub profile! I'm a passionate developer and creative professional with a unique blend of skills in programming and digital arts.
 
@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer and creative profession
 
 I love blending my technical expertise with my creative skills to build innovative solutions and captivating content. Feel free to explore my projects and reach out if you want to collaborate on something amazing!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/mushafkhan7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mushafkhan7/)
 
 ---
 
