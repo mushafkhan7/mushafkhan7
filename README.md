@@ -4,22 +4,16 @@ Welcome to my GitHub profile! I'm a passionate developer and creative profession
 
 ---
 
-### Languages:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
 ## 💻 Programming Skills
 
 ### Languages:
-- **Python**: Versatile and powerful, I use Python for everything from web scraping to data analysis.
-- **HTML & CSS**: Crafting responsive and visually appealing web pages to ensure a seamless user experience.
-- **JavaScript**: Bringing web applications to life with dynamic and interactive features.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white): Versatile and powerful, I use Python for everything from web scraping to data analysis.
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white): Crafting responsive and visually appealing web pages to ensure a seamless user experience.
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white): Crafting responsive and visually appealing web pages to ensure a seamless user experience.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript): Bringing web applications to life with dynamic and interactive features.
 
 ---
+
 
 ## 🎨 Creative Skills
 
