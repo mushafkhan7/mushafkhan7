@@ -76,7 +76,7 @@
                 <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="Illustrator" width="40" height="40"/>
             </a>
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" alt="Blender" width="40" height="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/180px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/>
             </a>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
