@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there! I'm a passionate developer and creative professional with a diverse skill set in both programming and digital arts.
 
-<!--
-**mushafkhattak/mushafkhattak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages:
+- **Python**: I love using Python for its simplicity and versatility in various projects, from web scraping to data analysis.
+- **HTML & CSS**: I create responsive and visually appealing web pages, ensuring a great user experience.
+- **JavaScript**: I enhance web applications with dynamic and interactive elements.
 
-Here are some ideas to get you started:
+### 🎨 Other Soft Skills:
+- **Photoshop**: Skilled in photo editing and graphic design, creating stunning visuals and artwork.
+- **Illustrator**: Proficient in vector graphic design, crafting logos, icons, and illustrations.
+- **Premiere Pro**: Experienced in video editing, producing high-quality videos and cinematic content.
+- **After Effects**: Creating captivating motion graphics and visual effects to bring projects to life.
+- **Blender**: Proficient in 3D modeling and animation, creating realistic and imaginative 3D content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy combining my technical expertise with my creative skills to build innovative solutions and captivating content. Let's collaborate and create something amazing together!
+
