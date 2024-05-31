@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Mushaf Khattak</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer and creative professional with a unique blend of skills in programming and digital arts.</h3>
 
@@ -83,15 +82,4 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
             </a>
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="XD" width="40" height="40"/>
-            </a>
-        </p>
-    </div>
-</div>
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushafkhan7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-```
+                <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017
