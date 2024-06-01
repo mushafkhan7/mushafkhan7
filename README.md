@@ -35,10 +35,7 @@ Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_
 
 #
 
-
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-          
+         
 
 ---
 ### 🧑🏻‍💻 Currently Learning
@@ -56,13 +53,13 @@ Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_
         <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>
     </a>
     <a href="https://instagram.com/mushafkhan7" target="_blank">
-        <img align="center" alt="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" " />
+        <img align="center" alt="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
     </a>
     <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvnkm9g5cpn6ogpwt_q4epg" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+        <img align="center" alt="YouTube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
     </a>
     <a href="https://www.hackerrank.com/musaleh" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+        <img align="center" alt="HackerRank" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
     </a>
 </p>
 
