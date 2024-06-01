@@ -55,16 +55,7 @@ Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_
     <a href="https://instagram.com/mushafkhan7" target="_blank">
         <img align="center" alt="Instagram" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
     </a>
-    <a href="https://www.hackerrank.com/musaleh" target="_blank">
-        <img align="center" alt="HackerRank" width="30px" style="padding-right:20;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
-    </a>
-</p>
+   </p>
 
 ---
-<h3 align="left">Subscribe:</h3>
-<p align="left">
- <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvnkm9g5cpn6ogpwt_q4epg" rel="nofollow">
-        <img align="center" alt="YouTube" width="30px" height="30" style="padding-left:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
-    </a>
-    
-</p>
+
