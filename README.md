@@ -52,7 +52,7 @@ I blend mathematics with digital artistry.
   
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/mushafkhan7" target="_blank">
         <img align="left" alt="LinkedIn" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>         
