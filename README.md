@@ -68,6 +68,4 @@ I blend mathematics with digital artistry.
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
-
