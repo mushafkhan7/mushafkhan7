@@ -8,7 +8,6 @@ Proficient in Adobe's suite, I create visual content using Photoshop, Premiere P
 
 I blend mathematics with digital artistry.
 
-#
 <p align="left">
       <a href="https://www.youtube.com/@mushafalam">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCvNkM9g5cPN6OGpWt_Q4EPg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -37,8 +36,7 @@ I blend mathematics with digital artistry.
 <img align="left" alt="XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"/>     
           
 <br />
-
-#        
+        
 
 ---
 ### 🧑🏻‍💻 Currently Learning
