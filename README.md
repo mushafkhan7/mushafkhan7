@@ -2,13 +2,14 @@
 
 <strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong>
 
-<p>I'm Mushaf Khattak, 20 years old. Currently pursuing a Bachelor's degree in Mathematics. I enjoy coding in Python, C++, and Java. Additionally, I'm proficient in web development using HTML, CSS, and JavaScript, including React.</p>
+<p style="text-align: justify;">I'm Mushaf Khattak, 20 years old. Currently pursuing a Bachelor's degree in Mathematics. I enjoy coding in Python, C++, and Java. Additionally, I'm proficient in web development using HTML, CSS, and JavaScript, including React.</p>
 
-<p>Proficient in Adobe's suite, I create visual content using Photoshop, Premiere Pro, and After Effects. I explore 3D design using Blender and create user interfaces with Adobe XD.</p>
+<p style="text-align: justify;">Proficient in Adobe's suite, I create visual content using Photoshop, Premiere Pro, and After Effects. I explore 3D design using Blender and create user interfaces with Adobe XD.</p>
 
-<p>I blend mathematics with digital artistry.</p>
+<p style="text-align: justify;">I blend mathematics with digital artistry.</p>
 
-<p>Connect with me on <a href="https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_Q4EPg">YouTube</a>.</p>
+<p style="text-align: justify;">Connect with me on <a href="https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_Q4EPg">YouTube</a>.</p>
+
 
 
 
