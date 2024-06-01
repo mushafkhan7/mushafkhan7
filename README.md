@@ -34,12 +34,12 @@ Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_
 <br />
 
 #
-#
+
 ---
+### 🧑🏻‍💻 Currently Learning
 
-- 🌱 I’m currently learning **Python, C++**
-- 📫 How to reach me: **mushafalamkhan@gmail.com**
-
+- 🌱 I’m currently learning **Python, C++, Java**
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
