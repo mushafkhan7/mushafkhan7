@@ -1,5 +1,17 @@
-<h1> Hi 👋, I'm Mushaf Khattak</h1>
-<h3> Welcome to my GitHub profile! I'm a passionate developer and creative professional with a unique blend of skills in programming and digital arts.</h3>
+# 🏄‍♂️ Mushaf Khattak
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm Mushaf Khattak, a digital craftsman specializing in development, filmmaking, and creative projects. My work involves building innovative solutions and captivating visual narratives.
+
+At the age of 20, I'm currently pursuing a Bachelor's degree in Mathematics, where my love for logic fuels my passion for programming. I'm proficient in languages like Python, C++, and Java, and I excel in web development using HTML, CSS, and JavaScript, including frameworks like React.
+
+With expertise in Adobe's suite, I create compelling visual stories using Photoshop, Premiere Pro, and After Effects. I also explore the world of 3D using Blender and design intuitive user interfaces with Adobe XD.
+
+In my work, I strive for simplicity and elegance, blending the precision of mathematics with the artistry of digital creation.
+
+Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_Q4EPg).
+
 
 ---
 
