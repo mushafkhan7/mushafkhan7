@@ -56,10 +56,10 @@ Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_
         <img align="center" alt="Instagram" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
     </a>
     <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvnkm9g5cpn6ogpwt_q4epg" target="_blank">
-        <img align="center" alt="YouTube" width="50px" style="padding-right:60px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+        <img align="center" alt="YouTube" width="20px" style="padding-right:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
     </a>
     <a href="https://www.hackerrank.com/musaleh" target="_blank">
-        <img align="center" alt="HackerRank" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
+        <img align="center" alt="HackerRank" width="20px" style="padding-right:30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
     </a>
 </p>
 
