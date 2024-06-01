@@ -10,6 +10,12 @@ I blend mathematics with digital artistry.
 
 Connect with me on [YouTube](https://www.youtube.com/channel/UCvNkM9g5cPN6OGpWt_Q4EPg).
 
+<p align="left">
+      <a href="https://www.youtube.com/@mushafalam">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+</a>
+   </p>
+
 
 ---
 ### 🧰 Languages and Tools
