@@ -75,3 +75,5 @@ I blend mathematics with digital artistry.
 [![Cinematic Artwork In Photoshop!](https://ytcards.demolab.com/?id=yEgeQupWY4c&title=Cinematic+Artwork+In+Photoshop%21&lang=en&timestamp=1693736236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cinematic Artwork In Photoshop!")](https://www.youtube.com/watch?v=yEgeQupWY4c)
 [![I Created My Dream Art In Photoshop!](https://ytcards.demolab.com/?id=nXOfBvYANA4&title=I+Created+My+Dream+Art+In+Photoshop%21&lang=en&timestamp=1693484382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Created My Dream Art In Photoshop!")](https://www.youtube.com/watch?v=nXOfBvYANA4)
 <!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mushafalam)
